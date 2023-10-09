@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Tenis Globe",
+    "description": "Tenis de excelente calidad, resistentes y duraderos para montar skateboarding",
+    "price": 286000,
+    "thumbnail": "imagen1.jpg",
+    "code": "TENIS001",
+    "size": "US 10",
+    "stock": 100
+  },
+  {
+    "id": 2,
+    "title": "Tenis DC-Shoes",
+    "description": "Tenis resistentes ideales para practicar skateboarding.",
+    "price": 310000,
+    "thumbnail": "imagen2.jpg",
+    "code": "TENIS002",
+    "size": "US 8",
+    "stock": 50
+  },
+  {
+    "id": 3,
+    "title": "Tenis Lakai",
+    "description": "Tenis elegantes y cómodos para uso diario.",
+    "price": 360000,
+    "thumbnail": "imagen3.jpg",
+    "code": "TENIS003",
+    "size": "US 9",
+    "stock": 75
+  },
+  {
+    "id": 4,
+    "title": "Tenis DVS",
+    "description": "Tenis resistentes ideales para practicar skateboarding.",
+    "price": 299000,
+    "thumbnail": "imagen4.jpg",
+    "code": "TENIS004",
+    "size": "US 9.5",
+    "stock": 60
+  },
+  {
+    "title": "Producto de ejemplo",
+    "description": "Este es un producto de ejemplo",
+    "price": 19.99,
+    "thumbnail": "imagen.png",
+    "code": "ABC123",
+    "size": "M",
+    "stock": 10,
+    "id": 5
+  },
+  {
+    "title": "Producto de ejemplo2",
+    "description": "Este es un producto de ejemplo",
+    "price": 19.99,
+    "thumbnail": "imagen.png",
+    "code": "ABC123",
+    "size": "M",
+    "stock": 10,
+    "id": 6
+  }
+]
